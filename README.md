@@ -9,7 +9,7 @@ ________________________________________________________________________________
 * How does weather impact bike trips?
 * How do bike trip patterns vary by time of day and the day of the week?
 
-Data Description
+## Data Description
 _____________________________________________________________________________________________
 * This dataset contains anonymized trips data of Lyft bike sharing system(Bay Wheels), in the Bay Area from January 2019 to May 2019.
 * This data set contains 1 Million Records, 50 Columns
