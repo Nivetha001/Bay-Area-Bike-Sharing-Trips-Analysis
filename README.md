@@ -17,7 +17,6 @@ ________________________________________________________________________________
 
 #### Columns Decription
 
-
 * month- Month when trip occurred
 * trip_duration_sec-Trip duration in seconds 
 * start_station_id-Trip Starting Station (id)
