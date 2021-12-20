@@ -15,8 +15,8 @@ ________________________________________________________________________________
 * This data set contains 1 Million Records, 50 Columns
 * File type-CSV(Comma seperated value), 5 csv files and each files contains 10 columns, totally 50 columns.
 
-Columns Decription
-_____________________
+#### Columns Decription
+
 
 * month- Month when trip occurred
 * trip_duration_sec-Trip duration in seconds 
